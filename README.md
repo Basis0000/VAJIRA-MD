@@ -1,11 +1,11 @@
   <p align="center">  
   <a href="https://i.ibb.co/7YGn5qS/20230305-135924.jpg">
-    <img alt="secktor docs" height="300" src="https://i.ibb.co/7YGn5qS/20230305-135924.jpg">
-    <h1 align="center"> PRABATH-MD </h1>
+    <img alt="secktor docs" height="300" src="https://telegra.ph/file/26fa7a93ca90c0edaae45.jpg">
+    <h1 align="center"> VAJIRA-MD </h1>
   </a>
 </p>  
 <p align="center">
-  <a aria-label="Join our chats" href="https://chat.whatsapp.com/KwFkWjI8qJ6B174esar8IM" target="_blank">
+  <a aria-label="Join our chats" href="https://chat.whatsapp.com/BvNbfgOzzo77urGqoNjThk" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a aria-label="Secktor is free to use" href="https://github.com/SamPandey001/Secktor-Md/blob/main/LICENCE" target="_blank">
@@ -16,19 +16,19 @@
 
 ---
 
-<p align="center"><img src="https://profile-counter.glitch.me/{prabathLK}/count.svg" alt="prabathLK :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{vajirabot1}/count.svg" alt="vajirabot1 :: Visitor's Count" /></p>
 
   
- ## 🇱🇰 ***New bot, latest version 🎉 [new reposity](https://github.com/prabathLK/PRABATH-MD/)***
+ ## 🇱🇰 ***New bot, latest version 🎉 [new reposity](https://github.com/vajirabot1/VAJIRA-MD/)***
 
 
 ---
 
-![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FprabathLK%2FPRABATH_MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
+![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvajirabot1%2FVAJIRA-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
 
-![forks](https://img.shields.io/github/forks/prabathLK/PRABATH_MD?label=Forks&style=social)
+![forks](https://img.shields.io/github/forks/vajirabot1/VAJIRA-MD?label=Forks&style=social)
 
-![stars](https://img.shields.io/github/stars/prabathLK/PRABATH_MD?style=social)
+![stars](https://img.shields.io/github/stars/vajirabot1/VAJIRA-MD?style=social)
 
 
   
@@ -37,10 +37,10 @@
 
   
 
-●. ***[SCAN QR CODE SERVER-1](https://prabath-md-qr-web-prabath.koyeb.app/)***
 
 ●. ***[SCAN QR CODE SERVER-2](https://replit.com/@Amilaprabath/PRABATH-MDQR?output%20only=1&lite=1#index.js)***
 
+●. ***[SCAN QR CODE SERVER-1](https://prabath-md-qr-web-prabath.koyeb.app/)***
   
 ..........................................................
 
@@ -48,7 +48,7 @@
 
 ●. ***Get a Mongodb uri from [railway.app](https://railway.app).***
 
-●.  ***Click [FORK](https://github.com/prabathLK/PRABATH-MD/fork)***
+●.  ***Click [FORK](https://github.com/vajirabot1/VAJIRA-MD/fork)***
 
 ---
 
@@ -56,11 +56,11 @@
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/NO4jvb?referralCode=iM43z3)
 
-[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/PrabathLK/PRABATH_MD&template=https://github.com/PrabathLK/PRABATH_MD.git)
+[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/vajirabot1/VAJIRA-MD&template=https://github.com/vajirabot1/VAJIRA-MD.git)
 
   
 
- ## [Deploy on VPS or PC.](https://github.com/prabathLK/PRABATH_MD/blob/main/deploy-on-vps.md)
+ ## [Deploy on VPS or PC.](https://github.com/vajirabot1/VAJIRA-MD/blob/main/deploy-on-vps.md)
 
  
 
@@ -69,4 +69,4 @@
 
 ## License
 
-The prabath-md is made available under the [GPL-3 license](https://github.com/prabathLK/PRABATH-MD/blob/main/LICENCE). 
+The vajira-md is made available under the [GPL-3 license](https://github.com/vajirabot1/VAJIRA-MD/blob/main/LICENCE). 
