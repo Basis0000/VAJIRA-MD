@@ -36,7 +36,7 @@
  ## DEPLOYMENT METHODS
 
   
-●. ***[SCAN QR CODE SERVER-1](https://replit.com/@VajiraRathnayak/KING-VAJIRA-MD?v=1)***
+●. ***[SCAN QR CODE SERVER-1](https://replit.com/@VajiraRathnayak/VAJIRA-MDQR-SCAN?v=1)***
 
 ●. ***[SCAN QR CODE SERVER-2](https://replit.com/@Amilaprabath/PRABATH-MDQR?output%20only=1&lite=1#index.js)***
 
