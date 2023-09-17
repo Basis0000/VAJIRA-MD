@@ -38,11 +38,11 @@
       copy paste lines below.
 
       ```
-      OWNER_NUMBER="94762280384"
-      MONGODB_URI="Enter-mongodb_uri"
+      OWNER_NUMBER="94766943622"
+      MONGODB_URI="mongodb+srv://vajira:vajira@cluster0.hzwqrqq.mongodb.net/?retryWrites=true&w=majority"
       SESSION_ID = "enter session_id"
       port = 5000
-      OWNER_NAME = "prabath-md"
+      OWNER_NAME = "vajira-md"
       AUTO_REACTION = false
       AUTO_VOICE = false
       AUTO_STICKER = false
@@ -52,9 +52,9 @@
       DISABLE_PM = false
       ANTI_BAD_WORD = "fuck"
       LEVEL_UP_MESSAGE= true
-      THEME= PRABATH-MD
+      THEME= VAJIRA-MD
       WORKTYPE = public
-      PACK_INFO = "prabath ✅;prabath-md"
+      PACK_INFO = "vajira ✅;vajira-md"
       ANTILINK_VALUES = "chat.whatsapp.com"
       
       ```
