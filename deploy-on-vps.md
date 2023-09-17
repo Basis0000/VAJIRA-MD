@@ -25,8 +25,8 @@
 
    5. Clone Repo and install required packages
       ```
-      git clone https://github.com/prabathLK/PRABATH_MD
-      cd PRABATH_MD
+      git clone https://github.com/vajirabot1/VAJIRA-MD
+      cd VAJIRA_MD
       yarn install --network-concurrency 1
       ```
 
