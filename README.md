@@ -36,11 +36,11 @@
  ## DEPLOYMENT METHODS
 
   
+●. ***[SCAN QR CODE SERVER-1](https://replit.com/@VajiraRathnayak/KING-VAJIRA-MD?v=1)***
 
+●. ***[SCAN QR CODE SERVER-2](https://replit.com/@Amilaprabath/PRABATH-MDQR?output%20only=1&lite=1#index.js)***
 
-●. ***[SCAN QR CODE SERVER-1](https://replit.com/@Amilaprabath/PRABATH-MDQR?output%20only=1&lite=1#index.js)***
-
-●. ***[SCAN QR CODE SERVER-2](https://prabath-md-qr-web-prabath.koyeb.app/)***
+●. ***[SCAN QR CODE SERVER-3](https://prabath-md-qr-web-prabath.koyeb.app/)***
   
 ..........................................................
 
