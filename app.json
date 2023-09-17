@@ -77,6 +77,10 @@
   },
   "MONGODB_URI": {
     "description": "Put Your Mongodb_url from https://railway.app/new"
+  }, 
+     "THEME": { 
+     "description": "මේ නම වෙනස් කරන්න එපා වෙනස් කලොත් වැඩ කරන්නෙ නෑ. ලබා ගත හැකි තේමාව වන්නෙ VAJIRA..", 
+      "value": "VAJIRA-MD"
   },
     "ANTI_BAD_WORD": {
     "description": "Put bad_word here Use a comma to separate two words when putting bad_word",
